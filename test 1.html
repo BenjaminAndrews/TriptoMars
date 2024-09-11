@@ -1,5 +1,3 @@
-<!DOCTYPE html<
-<lang ="en">
 <title>
 The dust storm on Mars
 </title>
