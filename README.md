@@ -23,8 +23,6 @@ font-family: 'Edwardian Script ITC', cursive;
 font-size: 50px; /*Adjust the size as needed */
 }
 p {
-margin-right: 650px;
-margin-left: 650px;
 font-family: 'Bookman Old Style', Bookman Old Style;
 font-size: 30px; /*Adjust the size as needed*/
 }
