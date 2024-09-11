@@ -39,7 +39,6 @@ font-size: 40px;
 
 <br  /> <br    />
 <w style="text-decoration: wavy underline">when you get to Mars</w>
-</div>
 <br   /><br   />
 <p>As the spacecraft gently touched down on the Martian surface, a wave of excitement and awe washed over me. The red dust swirled around the landing gear, settling slowly as the engines powered down. I took a deep breath, feeling the weight of history on my shoulders. This was it – the moment humanity had dreamed of for centuries.
 
