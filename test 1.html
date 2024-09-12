@@ -3,6 +3,11 @@ The dust storm on Mars
 </title>
 <head>
 <style>
+            body {
+background-image: url('AIinvation.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
 @font-face {
 font-family: rofitaste;
 src: url('font/rofitaste.otf');
