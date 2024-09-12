@@ -48,7 +48,6 @@ I continued my journey, heading towards a nearby ridge. As I climbed, I thought 
 
 With a sense of determination, I planted the flag of humanity into the ground. This was just the beginning. Mars was the first step in a new era of exploration, and I was honored to be a part of it. As I stood there, looking out over the red planet, I knew that we were capable of achieving anything we set our minds to.
 </p>
-</body>
 
 <footer>
 <div class="center-text">
