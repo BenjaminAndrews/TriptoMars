@@ -31,7 +31,7 @@ font-size: 30px; /*Adjust the size as needed*/
 color: white;
 }
 t {
-color: blue;
+color: orange;
 fornt-family: 'Calibri', Calibri;
 font-size: 40px;
 </style>
