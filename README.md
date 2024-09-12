@@ -28,7 +28,7 @@ font-size: 50px; /*Adjust the size as needed */
 p {
 font-family: 'Bookman Old Style', Bookman Old Style;
 font-size: 30px; /*Adjust the size as needed*/
-color: red;
+color: white;
 }
 t {
 color: blue;
